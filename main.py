@@ -12,9 +12,9 @@ from langchain.docstore.document import Document
 from lxml import etree
 import pandas as pd
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "<OPEN-AI API Key>"
 os.environ[
-    "ANTHROPIC_API_KEY"] = "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"
+    "ANTHROPIC_API_KEY"] = "<Anthropic-AI API Key>"
 namespaces = {'dc': 'http://purl.org/dc/elements/1.1/', 'content': 'http://purl.org/rss/1.0/modules/content/'}
 
 
