@@ -1,0 +1,14 @@
+requests
+lxml
+pandas
+openpyxl
+openai
+chromadb
+langchain
+tiktoken
+langchain-experimental
+langchain-community
+langchain-openai
+pyarrow
+anthropic
+langchain-anthropic
